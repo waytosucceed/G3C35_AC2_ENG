@@ -1,0 +1,254 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "By next week, I _____ my homework.",
+    "options": [
+      "will have finished",
+      "will finish",
+      "will be finishing",
+      "have finished"
+    ],
+    "correct": 0,
+    "explanation": "In future perfect tense, we use 'will have' + past participle (finished) to talk about something that will be completed in the future."
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "Before dinner, Mom _____ the cake.",
+    "options": [
+      "will have bake",
+      "will have baked",
+      "will be baking",
+      "has baked"
+    ],
+    "correct": 1,
+    "explanation": "We use 'will have' + past participle (baked) to show that the action will be completed before a specific time in the future (dinner time)."
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "By the time you wake up, the sun _____.",
+    "options": [
+      "will has rise",
+      "will have rise",
+      "will have risen",
+      "will have rising"
+    ],
+    "correct": 2,
+    "explanation": "'Will have risen' shows that the sun's rising will be completed before the future event of you waking up."
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "The chef _____ dinner by the time the guests arrive.",
+    "options": [
+      "will have cook",
+      "will have cooked",
+      "will be cooking",
+      "will has cooked"
+    ],
+    "correct": 1,
+    "explanation": "'Will have cooked' shows that the cooking will be finished before the future event of the guests arriving."
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "By the end of the year, we _____ in this house for five years.",
+    "options": [
+      "will have liven",
+      "will have lived",
+      "will have living",
+      "would have lived"
+    ],
+    "correct": 1,
+    "explanation": "'Will have lived' shows that the action of living will be ongoing and will reach five years by the end of the year."
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "Future perfect tense always uses 'will have' + a verb.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 1,
+    "explanation": "Future perfect tense uses 'will have' + past participle of the verb, not just any verb form."
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "'She will have practised the piano for an hour by lunchtime' uses future perfect tense correctly.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0,
+    "explanation": "This sentence correctly uses future perfect tense to describe an action (practising piano) that will be completed by a specific future time (lunchtime)."
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "'They will finish the puzzle by noon' is an example of future perfect tense.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 1,
+    "explanation": "The given sentence is in 'simple future tense.' The sentence should use 'will have finished' to show the puzzle will be completed by noon, to make this sentence in 'Future perfect tense.'"
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "'They will have seen the movie by next week' is an example of future perfect tense.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0,
+    "explanation": "The sentence uses 'will have seen' to show the action will be completed by next week. This sentence uses the correct rule of 'Future perfect tense.'"
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "'By next month, we will have visit Grandma' is a future perfect tense sentence.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 1,
+    "explanation": "The sentence uses the verb in an incorrect form. The correct form of the verb should be 'visited.' The sentence should use 'will have visited' to show the visit will be completed by next month."
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "Which sentence is in future perfect tense?",
+    "options": [
+      "I will eat breakfast tomorrow.",
+      "I will have eaten breakfast by 8 AM.",
+      "I am eating breakfast now.",
+      "I ate breakfast yesterday."
+    ],
+    "correct": 1,
+    "explanation": "This sentence uses 'will have' + past participle (eaten) to show that the action of eating breakfast will be completed by a specific time in the future (8 AM)."
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "Choose the sentence in the future perfect tense:",
+    "options": [
+      "The bird will have fly away.",
+      "The bird is flying away.",
+      "The bird will have flown away by sunset.",
+      "The bird flew away yesterday."
+    ],
+    "correct": 2,
+    "explanation": "This sentence uses 'will have' + past participle (flown) to indicate that the bird's action of flying away will be finished before a future time (sunset)."
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "Which sentence uses future perfect tense correctly?",
+    "options": [
+      "We will go to the park tomorrow.",
+      "We will have been going to the park tomorrow.",
+      "We will have gone to the park by lunchtime.",
+      "We will have went to the park already."
+    ],
+    "correct": 2,
+    "explanation": "This sentence correctly uses 'will have' + past participle (gone) to show that the action of going to the park will be completed before a future time (lunchtime)."
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "Identify the future perfect tense sentence:",
+    "options": [
+      "The dog will have bark at the mailman.",
+      "The dog will have barked at the mailman before we get home.",
+      "The dog will have barking at the mailman.",
+      "The dog barked at the mailman yesterday."
+    ],
+    "correct": 1,
+    "explanation": "This sentence uses 'will have' + past participle (barked) to show that the dog's barking will be completed before another future event (us getting home)."
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "Which sentence is in future perfect tense?",
+    "options": [
+      "Sarah will have bake cookies tomorrow.",
+      "Sarah will have baking cookies now.",
+      "Sarah will have baked cookies by the time we arrive.",
+      "Sarah have baked cookies last week."
+    ],
+    "correct": 2,
+    "explanation": "This sentence uses 'will have' + past participle (baked) to indicate that Sarah will finish baking cookies before another future event (our arrival)."
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "Tomorrow, it _____ all day. (Future continuous tense)",
+    "options": [
+      "will rain",
+      "will be raining",
+      "will have rained",
+      "has rained"
+    ],
+    "correct": 1,
+    "explanation": "'Will be raining' is in future continuous tense, showing that the rain will continue for an extended time tomorrow."
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "Next week, we _____ to the beach. (Simple future tense)",
+    "options": [
+      "will go",
+      "will be going",
+      "will have gone",
+      "have gone"
+    ],
+    "correct": 0,
+    "explanation": "'Will go' is in simple future tense, used to talk about an action that will happen in the future."
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "Fill in the blank with the correct simple future tense: The train _____ (arrive) at 3 PM.",
+    "options": [
+      "will arrive",
+      "will have arrived",
+      "will have arriving",
+      "will arrived"
+    ],
+    "correct": 0,
+    "explanation": "We use 'will arrive' in simple future tense to talk about the train's expected arrival time in the future."
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "'They will be studying when we visit them tonight' is in the future continuous tense.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correct": 0,
+    "explanation": "This sentence correctly uses future continuous tense (will be + verb+ing) to describe an ongoing action in the future."
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "Choose the correct future continuous form: During the race, he _____.",
+    "options": [
+      "will run",
+      "will be running",
+      "will have run",
+      "has run"
+    ],
+    "correct": 1,
+    "explanation": "'Will be running' is in future continuous tense, showing that the action of running will be ongoing during the future event (the race)."
+  },
+  {
+    "questionNo": "Q21.",
+    "question": "What is the Smith family excited about?",
+    "options": [
+      "Going to the beach",
+      "A countryside adventure on a train",
+      "Visiting a zoo",
+      "Staying at home"
+    ],
+    "correct": 1,
+    "explanation": "The passage begins by telling us that the Smith family is excited about a thrilling adventure to the countryside on a train. The correct answer is clearly stated in the first sentence of the story."
+  },
+  {
+    "questionNo": "Q22.",
+    "question": "How will the scenery change during the train ride?",
+    "options": [
+      "From mountains to rivers",
+      "From forests to beaches",
+      "From city streets to rolling green hills",
+      "From snowy hills to deserts"
+    ],
+    "correct": 2,
+    "explanation": "The passage explains that 'the scenery will have changed from busy city streets to rolling green hills,' showing how the view changes as they leave the city and enter the countryside."
+  }
+]
